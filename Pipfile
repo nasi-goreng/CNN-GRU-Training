@@ -17,6 +17,10 @@ matplotlib = "*"
 wandb = "*"
 onnx = "*"
 onnxscript = "*"
+onnx-tf = "*"
+tensorflow = "*"
+tensorflowjs = "*"
+scipy = "*"
 
 [dev-packages]
 
